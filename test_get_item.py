@@ -4,6 +4,7 @@ import pytest
 
 
 class TestGetItemById():
+    """this test checks methods that access data"""
     book_url = "http://yoshilyosha.pythonanywhere.com/api/v1/book"
     user_url = "http://yoshilyosha.pythonanywhere.com/api/v1/user"
     book_id = 1

@@ -4,7 +4,7 @@ import pytest
 
 
 class TestAddNewItem():
-    """his test checks methods that access items"""
+    """this test checks methods that aadd new data"""
     book_url = "http://yoshilyosha.pythonanywhere.com/api/v1/book"
     user_url = "http://yoshilyosha.pythonanywhere.com/api/v1/user"
     db_url = "http://yoshilyosha.pythonanywhere.com/api/v1/test/repopulate_db"
